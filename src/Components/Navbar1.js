@@ -5,7 +5,7 @@ class Navbar1 extends Component {
     return (
       <div>
         <Navbar className="navbar">
-          <Navbar.Brand href="#home">logo</Navbar.Brand>
+          <Navbar.Brand href="#home"><img className="logo" src={require('../images/logo.jpg')} alt="Logo_image" /></Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse className="justify-content-end">
             <Navbar.Text>
