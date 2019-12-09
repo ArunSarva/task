@@ -13,3 +13,47 @@
   width: 8%;
   height: auto;
 }
+.Signuplogo{
+  width: 20%;
+  height: auto;
+}
+span {
+  color: red;
+}
+.forgotPassword {
+  margin-right: 35px;
+
+}
+#loginButton {
+  margin-right: 20px;
+}
+.signupContainer {
+  width: 35%;
+  margin-top: 5%;
+  padding: 03%;
+  border: 2px solid #3890a1;
+  background-color: #f25e92;
+}
+.signUpLable {
+  margin-left: 75px;
+  font-weight: bold;
+  font-size:x-large ;
+}
+#logoContainer
+{
+  margin-bottom: 8%;
+}
+#loginBox {
+  padding: 10% 10%;
+  background-color: #c7ced4;
+}
+#footer{
+  padding-top: 5%;
+
+}
+.SignUpButton {
+  margin-left: 25%;
+}
+.cancleButton {
+  margin-left: 10%;
+}
